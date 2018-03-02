@@ -1,0 +1,1 @@
+<?php include get_template_directory() . '/template-parts/footer-sections/footer-container.php'; ?>
